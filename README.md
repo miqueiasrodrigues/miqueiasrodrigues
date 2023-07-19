@@ -4,7 +4,7 @@
 💻 Back-end Developer <br>
 
 
-🛠️ ### Stack:
+### 🛠️Stack:
 
 
 
