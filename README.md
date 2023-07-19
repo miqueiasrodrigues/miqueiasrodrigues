@@ -1,6 +1,6 @@
 ### Hello World, meu nome é Miquéias👋
 
-💻 Graduando em Engenharia da Computação - Universidade Federal do Maranhão (UFMA)
+💻 Graduando em Engenharia da Computação - Universidade Federal do Maranhão (UFMA) <br>
 🖥️ Graduado em Interdisciplinar em Ciência e Tecnologia - Universidade Federal do Maranhão (UFMA)
 
 
