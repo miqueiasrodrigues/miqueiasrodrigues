@@ -6,6 +6,18 @@
 
 ### 🛠️Stack:
 
+<ul>
+  <li>PHP </li>
+  <li>HTML5 </li>
+  <li>CSS3</li>
+  <li>JavaScript </li>
+  <li>MySQL</li>
+</ul>
+
+
+ 
+
+
 
 
 <!--
