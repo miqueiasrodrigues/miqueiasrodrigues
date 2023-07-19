@@ -1,7 +1,7 @@
 ### Hi, I'm is Miqueias👋
-🎓 Graduated in interdisciplinary science and technology
-🎓 Computer Engineering student
-💻 Back-end Developer
+🎓 Graduated in interdisciplinary science and technology <br>
+🎓 Computer Engineering student <br>
+💻 Back-end Developer <br>
 
 
 🛠️ Stack:
