@@ -14,7 +14,6 @@
   <li>Flutter</li>
   <li>MySQL</li>
   <li>Firebase</li>
-  <li>Python </li>
 </ul>
 
 
