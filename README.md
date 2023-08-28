@@ -8,11 +8,12 @@
 
 <ul>
   <li>PHP </li>
+  <li>JavaScript </li>
+  <li>React</li>
   <li>HTML5 </li>
   <li>CSS3</li>
-  <li>JavaScript </li>
   <li>Flutter</li>
-  <li>MySQL</li>
+  <li>SQL</li>
   <li>Firebase</li>
 </ul>
 
