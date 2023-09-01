@@ -1,4 +1,4 @@
-### Hi, I'm is Miqueias👋
+### Hi, I'm Miqueias👋
 🎓 Graduated in interdisciplinary science and technology <br>
 🎓 Computer Engineering student <br>
 💻 Back-end Developer <br>
