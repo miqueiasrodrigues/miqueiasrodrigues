@@ -7,13 +7,14 @@
 ### 🛠️Stack:
 
 <ul>
-  <li>PHP </li>
-  <li>JavaScript </li>
-  <li>React</li>
-  <li>HTML5 </li>
+  <li>HTML5</li>
   <li>CSS3</li>
+  <li>PHP</li>
+  <li>Laravel</li>
+  <li>JavaScript</li>
+  <li>React</li>
   <li>Flutter</li>
-  <li>SQL</li>
+  <li>MySQL</li>
   <li>Firebase</li>
 </ul>
 
