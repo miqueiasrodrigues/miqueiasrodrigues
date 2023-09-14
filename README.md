@@ -15,8 +15,6 @@
 ![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/a4f4cad7-1237-49d9-84af-8e38113ea7d4)
 ![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/74c231ef-c5ad-4d70-a422-ff9dec7bc775)
 ![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/fe49184f-9cf9-4f6f-9d0c-428b33bf295d)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/866fe3d1-fa4e-4be0-aac2-04c444a651b8)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/68f1993b-f9f2-4efb-a219-419bdff60bcd)
 
 
 
