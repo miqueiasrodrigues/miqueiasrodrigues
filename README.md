@@ -1,10 +1,10 @@
 ### Hi, I'm Miqueias👋
 🎓 Graduated in interdisciplinary science and technology <br>
 🎓 Computer Engineering student <br>
-💻 FullStack Developer <br>
+💻 Fullstack Developer <br>
 
-https://www.linkedin.com/in/miqu%C3%A9ias-santos-rodrigues-66ba061b4/
-
+My LinkedIn:
+[www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4](https://www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4)
 
 ### 🛠️Stack:
 ![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/a841da52-8b2c-42fe-b66d-f7ecb0084431)
