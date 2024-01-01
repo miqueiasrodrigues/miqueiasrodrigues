@@ -4,7 +4,7 @@
 💻 Fullstack Developer <br>
 
 My LinkedIn:
-[www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4](https://www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4)
+[![LinkedIn](https://img.icons8.com/dusk/64/linkedin--v1.png)](https://www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4)
 
 ### 🛠️Stack:
 ![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/a841da52-8b2c-42fe-b66d-f7ecb0084431)
