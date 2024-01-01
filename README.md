@@ -3,20 +3,37 @@
 🎓 Computer Engineering student <br>
 💻 Fullstack Developer <br>
 
+<div>
+ 
+[![LinkedIn](https://img.icons8.com/doodle/96/linkedin--v2.png)](https://www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4)
+[![YouTube](https://img.icons8.com/doodle/96/youtube-play--v1.png)](https://www.youtube.com/channel/UCBA-DKvt0VCXq1zYiVpfGVQ)
+</div>
 
-### 🛠️Stack:
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/a841da52-8b2c-42fe-b66d-f7ecb0084431)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/105edbab-02bf-45d8-896f-539522774cb6)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/1a3a99db-9ee7-4a0e-83e7-2f5776345004)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/f7424b02-1d47-4bd1-96ec-11e80b8d60c1)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/0841a62e-5e8d-4de2-bc07-a0064e114e91)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/7a6e031a-7928-45a7-9c6b-5154fe5656c7)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/f542daf9-bdd6-4beb-a662-e0bec3277a8b)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/772c0dbe-cd8a-453c-805c-4abe0de3d0ce)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/7d632282-1219-4ab1-a885-5706238ff9e3)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/a4f4cad7-1237-49d9-84af-8e38113ea7d4)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/74c231ef-c5ad-4d70-a422-ff9dec7bc775)
-![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/fe49184f-9cf9-4f6f-9d0c-428b33bf295d)
+### 🛠️ Stack:
+
+![HTML5](https://img.icons8.com/color/96/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/96/css3.png)
+![React](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
+![JavaScript](https://img.icons8.com/fluency/96/javascript.png)
+![TypeScript](https://img.icons8.com/color/96/typescript.png)
+![Node.js](https://img.icons8.com/fluency/96/node-js.png)
+
+![PHP](https://img.icons8.com/external-those-icons-flat-those-icons/96/external-PHP-programming-and-development-those-icons-flat-those-icons.png)
+![Laravel](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-laravel-is-a-free-open-source-php-web-framework-logo-color-tal-revivo.png)
+![MySQL](https://img.icons8.com/color/96/mysql-logo.png)
+![Flutter](https://img.icons8.com/color/96/flutter.png)
+![Firebase](https://img.icons8.com/color/96/google-firebase-console.png)
+![Python](https://img.icons8.com/color/96/python--v2.png)
+
+#### Ferramentas e Outros:
+![Git](https://img.icons8.com/color/96/git.png)
+![Docker](https://img.icons8.com/color/96/docker.png)
+![VS Code](https://img.icons8.com/fluency/96/visual-studio-code-2019.png)
+
+
+
+
+
 
 
 
