@@ -3,8 +3,6 @@
 🎓 Computer Engineering student <br>
 💻 Fullstack Developer <br>
 
-[![LinkedIn](https://icons8.com.br/icon/X8g2OZMx4ET5/linkedin)](https://www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4)
-[![YouTube](https://icons8.com.br/icon/JWGSSssbEjaA/youtube)](https://www.youtube.com/channel/UCBA-DKvt0VCXq1zYiVpfGVQ)
 
 ### 🛠️Stack:
 ![image](https://github.com/miqueiasrodrigues/miqueiasrodrigues/assets/84649194/a841da52-8b2c-42fe-b66d-f7ecb0084431)
