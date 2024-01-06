@@ -5,8 +5,8 @@
 
 <div>
  
-[![LinkedIn](https://img.icons8.com/doodle/96/linkedin--v2.png)](https://www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4)
-[![YouTube](https://img.icons8.com/doodle/96/youtube-play--v1.png)](https://www.youtube.com/channel/UCBA-DKvt0VCXq1zYiVpfGVQ)
+[![LinkedIn](https://img.icons8.com/fluency/96/linkedin.png)](https://www.linkedin.com/in/miquéias-santos-rodrigues-66ba061b4)
+[![YouTube](https://img.icons8.com/color/96/youtube-play.png)](https://www.youtube.com/channel/UCBA-DKvt0VCXq1zYiVpfGVQ)
 </div>
 
 ### 🛠️ Stack:
