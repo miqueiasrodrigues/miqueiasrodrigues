@@ -9,7 +9,7 @@
 [![YouTube](https://img.icons8.com/color/96/youtube-play.png)](https://www.youtube.com/channel/UCBA-DKvt0VCXq1zYiVpfGVQ)
 </div>
 
-### 🛠️ Stack:
+### 🛠️ Stacks:
 
 ![HTML5](https://img.icons8.com/color/96/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/96/css3.png)
@@ -25,7 +25,7 @@
 ![Firebase](https://img.icons8.com/color/96/google-firebase-console.png)
 ![Python](https://img.icons8.com/color/96/python--v2.png)
 
-#### Ferramentas e Outros:
+#### Others:
 ![Git](https://img.icons8.com/color/96/git.png)
 ![Docker](https://img.icons8.com/color/96/docker.png)
 ![VS Code](https://img.icons8.com/fluency/96/visual-studio-code-2019.png)
