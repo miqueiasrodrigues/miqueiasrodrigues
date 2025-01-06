@@ -10,7 +10,7 @@
 </div>
 
 ### 🛠️ Stacks:
-
+![JAVA](https://img.icons8.com/fluency/96/java-coffee-cup-logo.png)
 ![HTML5](https://img.icons8.com/color/96/html-5--v1.png)
 ![CSS3](https://img.icons8.com/color/96/css3.png)
 ![React](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
