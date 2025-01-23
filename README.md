@@ -30,6 +30,24 @@
 ![Docker](https://img.icons8.com/color/96/docker.png)
 ![VS Code](https://img.icons8.com/fluency/96/visual-studio-code-2019.png)
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=miqueiasrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiasrodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 
 
